@@ -1,12 +1,4 @@
 # International-Debt-Statistics
-Focuses on financial flows, trends in external debt, and other major financial indicators for developing and advanced economies (data from Quarterly External Debt Statistics and Quarterly Public Sector Debt databases).
-
-Certainly! Here's a write-up you can use on GitHub to outline the various data analytics and machine learning projects that can be undertaken using the International Debt Statistics dataset:
-
----
-
-# International Debt Statistics: Data Analytics and Machine Learning Projects
-
 ## Overview
 The International Debt Statistics dataset provides comprehensive information on financial flows, trends in external debt, and other major financial indicators for both developing and advanced economies. With over 200 time series indicators spanning from 1970 to 2014, this dataset offers a rich source of data for conducting various data analytics and machine learning projects. Below are several project ideas that leverage this dataset to gain insights into global debt dynamics, assess financial risk, and predict future trends.
 
